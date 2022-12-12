@@ -3,7 +3,7 @@
 # React World
 
 I made this project to learn the basics of REACTJS. This project allows to visualize 250 countries of the world as well as to see their capital and number of inhabitants. I made this project with the help of a [YouTube video](https://www.youtube.com/watch?v=f0X1Tl8aHtA)
-Project : [here](http://react-world.jason-fel.be)
+Project : [here](https://react-world.jason-fel.be)
 
 ## Get the project
 
