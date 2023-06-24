@@ -49,4 +49,4 @@ npm build
 
 ## Screenshot
 
-![image](http://pics.jason-fel.be/uploads/1648320905image_2022-03-26_195503.png)
+![image](https://media.discordapp.net/attachments/767431513016500235/1122264116485160960/image.png?width=720&height=377)
